@@ -1,0 +1,2 @@
+# PHPExercises
+Exercises from SoftUni
